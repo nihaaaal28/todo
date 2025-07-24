@@ -40,11 +40,4 @@ Then open your browser and go to:
 http://localhost:5173
 ```
 
-## Future Ideas
 
-- Add task categories or tags
-- Set due dates and reminders
-- Export/import tasks
-- Dark mode toggle
-- Task priority levels
-- Search and filter functionality
